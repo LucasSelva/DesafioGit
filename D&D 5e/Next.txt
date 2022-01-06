@@ -1,0 +1,2 @@
+criar banco de dados para seleção de raças e classes
+criar repetição (combate) baseada em rolagens random (atl e dano) até que HP <=0
